@@ -1,0 +1,56 @@
+{
+  "question": {
+    "id": 1,
+    "name": "Question Title"
+  },
+  "candidates": [
+    {
+      "username": "username1",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username2",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username3",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username4",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username5",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username6",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username7",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username8",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username9",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username10",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username11",
+      "profile_picture": "https://i.pravatar.cc/300"
+    },
+    {
+      "username": "username12",
+      "profile_picture": "https://i.pravatar.cc/300"
+    }
+  ]
+}
